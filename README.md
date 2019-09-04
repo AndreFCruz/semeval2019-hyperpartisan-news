@@ -21,4 +21,20 @@ Given a news article text, decide whether it follows a hyperpartisan argumentati
 * Henrique Lopes Cardoso
 
 ## Citation
-_Will update with citation_
+```
+@inproceedings{cruz-etal-2019-team,
+    title = "Team Fernando-Pessa at {S}em{E}val-2019 Task 4: Back to Basics in Hyperpartisan News Detection",
+    author = "Cruz, Andr{\'e}  and
+      Rocha, Gil  and
+      Sousa-Silva, Rui  and
+      Lopes Cardoso, Henrique",
+    booktitle = "Proceedings of the 13th International Workshop on Semantic Evaluation",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/S19-2173",
+    doi = "10.18653/v1/S19-2173",
+    pages = "999--1003",
+}
+```
